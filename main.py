@@ -44,3 +44,5 @@ class ElectricCar(Car):
 tesla = ElectricCar ("Tesla", "Modul X", 2023, "Triangle", 122.4)
 tesla.displayinfo()
 print(tesla.body_module)
+
+lis kastrati
